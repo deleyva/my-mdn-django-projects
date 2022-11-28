@@ -1,0 +1,10 @@
+__pycache__
+*.swp
+*.sqlite
+*.sqlite3
+# requirements.txt
+venv
+settings.json
+github_settings.py
+
+.env
